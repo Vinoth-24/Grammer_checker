@@ -5,3 +5,5 @@
 - Accuracy technique : Length of a sentence vs No. of grammatical errors found in that sentence. ((len(x["text"]) - len(x["edit_col"]))/len(x["text"]))*100 <br>
 - Output : In the form of Dataframe with resultant text in "corrected_text" and accuracy in "accuracy %" <br>
 - Deployed using Streamlit library<br>
+- You can download once the correction has been made for the dataset.
+### Have a good day!
