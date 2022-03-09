@@ -1,5 +1,5 @@
 streamlit
-gramformer
+git+https://github.com/PrithivirajDamodaran/Gramformer.git
 tensorflow
 pillow
 pandas
