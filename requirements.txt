@@ -4,3 +4,4 @@ pillow
 pandas
 Jinja2
 spacy
+nlp = spacy.load("en_core_web_sm")
