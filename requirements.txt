@@ -1,6 +1,5 @@
 streamlit
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
-tensorflow
 pillow
 pandas
 Jinja2
