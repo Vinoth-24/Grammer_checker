@@ -4,7 +4,11 @@ from gramformer import Gramformer
 #import tensorflow
 from PIL import Image
 import pandas as pd
-
+try:
+    nlp = spacy.load("en_core_web_md")
+except: # If not present, we download
+    spacy.cli.download("en_core_web_md")
+    nlp = spacy.load("en_core_web_md")
 st.set_page_config(page_title="App-Grammer-Checker",page_icon="random",layout="wide",
                        menu_items={'Get Help': 'https://www.linkedin.com/in/vinoth24',
                                    'Report a bug': "https://github.com/Vinoth-24/Grammer_checker",
