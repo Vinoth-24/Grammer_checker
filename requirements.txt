@@ -3,6 +3,6 @@ git+https://github.com/PrithivirajDamodaran/Gramformer.git
 pillow
 pandas
 Jinja2
-pip setuptools wheel
+spacy download en
 spacy
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
