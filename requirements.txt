@@ -1,0 +1,6 @@
+streamlit
+gramformer
+tensorflow
+pillow
+pandas
+Jinja2
