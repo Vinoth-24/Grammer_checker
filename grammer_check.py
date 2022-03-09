@@ -1,7 +1,7 @@
 #Importing Libraries:
 import streamlit as st 
 from gramformer import Gramformer
-#import tensorflow
+import spacy
 from PIL import Image
 import pandas as pd
 try:
