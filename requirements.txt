@@ -3,5 +3,5 @@ git+https://github.com/PrithivirajDamodaran/Gramformer.git
 pillow
 pandas
 Jinja2
-spacy==3.2.3
+spacy==3.0.0
 ./en_core_web_sm-3.0.0.tar.gz
