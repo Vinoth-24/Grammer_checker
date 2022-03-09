@@ -4,4 +4,3 @@ pillow
 pandas
 Jinja2
 spacy
-python -m spacy download en
