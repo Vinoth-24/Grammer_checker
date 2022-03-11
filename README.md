@@ -7,4 +7,5 @@
 - Deployed using Streamlit library<br>
 - You can download once the correction has been made for the dataset.
 - This is only made for local deployment. You can ofcourse try reproducing it with the requirements file and the code that I have addded.
+- I have added the final csv file after checking grammer with acc in this repo. I have used 1/3 of the total dataset as the process was taking too much time and my laptop is not a high end one. Hope you can understand!
 ### Have a good day!
