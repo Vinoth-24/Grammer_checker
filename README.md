@@ -6,4 +6,5 @@
 - Output : In the form of Dataframe with resultant text in "corrected_text" and accuracy in "accuracy %" <br>
 - Deployed using Streamlit library<br>
 - You can download once the correction has been made for the dataset.
+- This is only made for local deployment. You can ofcourse try reproducing it with the requirements file and the code that I have addded.
 ### Have a good day!
